@@ -9,5 +9,6 @@ Microsoft provides their own media creation tool for both Windows 10 and Windows
 3. Insert your flash drive into your computer.
 
 4. Run Balena Etcher. You will see three symbols from left to right: a hexagon with a plus sign inside, a drive, and a thunderbolt.
-![balenaEtcher_17eeokaXxl](https://github.com/johnnyh209/Flashing-.iso-Image-Onto-USB-Drive/assets/33064730/319f6bc0-b242-40c0-a733-af1e8107d197)
+<img src="https://github.com/johnnyh209/Flashing-.iso-Image-Onto-USB-Drive/assets/33064730/319f6bc0-b242-40c0-a733-af1e8107d197" Width="700" />
+
 The program requires you start with the hexagon. Select `Flash from file`, and you will be prompted to select the .iso file for the operating system that you want to install.
